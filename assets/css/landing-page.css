@@ -5,7 +5,8 @@ html, body{
   font-family:"Raleway",sans-serif;
   padding: 0;
   margin: 0;
-  background: url('../images/bgs/DNA_3_dark.jpg');
+  background-size: cover;
+  background: url('../images/bgs/microbiology-dark.jpg');
 }
 
 .main-color{
