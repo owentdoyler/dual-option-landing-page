@@ -5,6 +5,6 @@ Check out the different branches for some different styles.
 
 
 # Desktop
-![ScreenShot](https://raw.github.com/owentdoyler/dual-option-landing-page/master/screenshots/blue-background.PNG)
+![ScreenShot](https://raw.github.com/owentdoyler/dual-option-landing-page/blue-background/screenshots/blue-background.PNG)
 # Mobile
-![ScreenShot](https://raw.github.com/owentdoyler/dual-option-landing-page/master/screenshots/blue-background-mobile.png)
+![ScreenShot](https://raw.github.com/owentdoyler/dual-option-landing-page/blue-background/screenshots/blue-background-mobile.PNG)
